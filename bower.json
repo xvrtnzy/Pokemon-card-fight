@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-fight",
+  "description": "A simple game in order to practice js",
+  "main": "index.js",
+  "authors": [
+    "De-Hsien dung"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

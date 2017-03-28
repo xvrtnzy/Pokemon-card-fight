@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-fight",
+  "version": "1.0.0",
+  "description": "A simple game in order to practice js",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "De-Hsien dung",
+  "license": "MIT"
+}
