@@ -14,7 +14,7 @@ class Monster {
 		return this.image;
 	}
 
-	getHp() {
+	getHP() {
 		return this.hp;
 	}
 
